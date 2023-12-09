@@ -3,7 +3,7 @@ The study strategically considers the impact of key demographic and geographic v
 # Steps to run the code
 - Import the `src/*.ipynb` file into Google Colab
 - Import/Upload the `src/WildFires/*` folder into your Google Drive and replace the path in the above notebook file.
-`filepath = '/content/drive/MyDrive/Neal/DataScience/fires'`
+`filepath = '/content/drive/MyDrive/Neal_Fire'`
 - Run the notebook on Colab, this might require providing permission for Colab to access your Google Drive folder
 
 # Methodology, Models and Datasets used
